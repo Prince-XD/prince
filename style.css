@@ -19,7 +19,7 @@
 
 body{
     min-height: 110vh;
-    background: var(--bg);
+    background: var(--lbg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -31,7 +31,7 @@ body{
 .dmode{
     --primary: black;
     --secondary: #fff;
-    --bg: url("https://telegra.ph/file/a13de4e161e71d8dc01bb.jpg");
+    --bg: url("https://telegra.ph/file/64183ebb8444a1408f28d.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;
