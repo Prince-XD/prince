@@ -195,7 +195,7 @@ hr{
 
 .social a i{
     color: var(--icons);
-    margin-right: 10px;
+    margin-right: 8px;
 }
 .social a i:hover{
     color: var(--i-hover);
