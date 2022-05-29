@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
-    --primary: white;
+    --primary: black;
     --secondary: black;
     --bg : url("https://telegra.ph/file/9e2e3b311c25b88b53383.jpg");
     --con: rgb(243, 21, 21);
@@ -29,7 +29,7 @@ body{
 
 .dmode{
     --primary: black;
-    --secondary: #fff;
+    --secondary: black;
     --bg: url("https://telegra.ph/file/3192795772c67b7c1c75a.jpg");
     --icons: #000000;
     --i-hover: #4facfe;
