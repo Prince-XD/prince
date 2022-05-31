@@ -171,7 +171,7 @@ document.getElementById('reply').addEventListener("click", async (e) => {
     else{
      
         var res = "";
-        await axios.get(`http://api.brainshop.ai/get?bid=165539&key=PYmP1GjHq1ipW9cI&uid=30112002&msg=${req}`).then(data => {
+        await axios.get(`https://merissarobot.tk/chatbot?apikey=MerissaAiChatBot&message=${req}`).then(data => {
             res = JSON.stringify(data.data.response)
         })
            
